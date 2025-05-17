@@ -1,0 +1,2 @@
+Enter person's name: 
+Person name is: Thanos
